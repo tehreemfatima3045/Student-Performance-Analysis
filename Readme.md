@@ -5,7 +5,7 @@ This project analyzes student performance data using Python and explores grade p
 
 ## Project Files
 - `student_data.csv` — Original dataset.
-- `predicted-results.csv` — Prediction results.
+- `prediction-results.csv` — Prediction results.
 - `student data analysis.py` — Data analysis and visualization code.
 - `prediction grade.py` — Grade prediction code.
 - `graphs/` — Graphs and heatmaps saved as PNG images.
