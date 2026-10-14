@@ -9,7 +9,7 @@ This project analyzes student performance data using Python and explores grade p
 - `student data analysis.py` — Data analysis and visualization code.
 - `prediction grade.py` — Grade prediction code.
 - `graphs/` — Graphs and heatmaps saved as PNG images.
-  -`requirments.txt`_ libraries 
+- `requirments.txt`_ libraries. 
 ## Libraries Used
 - Pandas
 - NumPy
